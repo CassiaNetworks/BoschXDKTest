@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+.xdkItem ul{
+    list-style: none;
+
+}
+.xdkItem ul li {
+    background-color:rgba(23,212,56,.3);
+    display: inline-block;
+    padding:10px;
+    margin:10px;
+}
